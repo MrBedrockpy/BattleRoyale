@@ -1,0 +1,10 @@
+name: BattleRoyale
+version: '${project.version}'
+main: ru.mrbedrockpy.battleroyale.Plugin
+api-version: '1.16'
+
+commands:
+  start:
+    description: ""
+  test:
+    description: ""
